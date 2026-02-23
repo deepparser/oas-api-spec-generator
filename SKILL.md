@@ -1,3 +1,8 @@
+---
+name: oas-api-spec-generator
+description: Generate OpenAPI 3.2.0 specifications for third-party APIs (OpenAI, Anthropic, Google, Microsoft, Stripe, GitHub, Slack, AWS, and more)
+---
+
 # OAS Third-Party API Spec Generator
 
 A skill for generating OpenAPI Specification 3.2.0 documents for third-party APIs (Microsoft, Google, OpenAI, Anthropic, Stripe, GitHub, Slack, AWS, and more).
